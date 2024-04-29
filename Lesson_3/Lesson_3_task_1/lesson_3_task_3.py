@@ -7,3 +7,4 @@ print(f"Отправление {mailing.track} из {mailing.from_address.index}
       f"{mailing.from_address.street}, {mailing.from_address.house}, - {mailing.from_address.apartment}"
       f" в {mailing.to_address.index}, {mailing.to_address.city}, {mailing.to_address.street}, "
       f"{mailing.to_address.house} - {mailing.to_address.apartment}. Стоимость {mailing.cost} рублей.")
++9
