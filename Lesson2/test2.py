@@ -1,5 +1,1 @@
-def test(a, b):
-    return a * b
-
-
-print(test(9, 4))
+print("HW2")
