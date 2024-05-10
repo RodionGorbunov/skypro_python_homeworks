@@ -6,7 +6,6 @@ from selenium.webdriver.common.by import By
 driver = webdriver.Chrome()
 driver.get("http://the-internet.herokuapp.com/add_remove_elements/")
 
-
 # пять раз кликнуть на кнопку Add Element
 
 for x in range(5):
